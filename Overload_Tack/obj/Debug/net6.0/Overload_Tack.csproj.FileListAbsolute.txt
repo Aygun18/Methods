@@ -1,0 +1,15 @@
+C:\Users\ASUS\OneDrive\Рабочий стол\C#\Overload_Tack\obj\Debug\net6.0\Overload_Tack.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\C#\Overload_Tack\obj\Debug\net6.0\Overload_Tack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Рабочий стол\C#\Overload_Tack\obj\Debug\net6.0\Overload_Tack.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\C#\Overload_Tack\obj\Debug\net6.0\Overload_Tack.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Рабочий стол\C#\Overload_Tack\obj\Debug\net6.0\Overload_Tack.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\C#\Overload_Tack\bin\Debug\net6.0\Overload_Tack.exe
+C:\Users\ASUS\OneDrive\Рабочий стол\C#\Overload_Tack\bin\Debug\net6.0\Overload_Tack.deps.json
+C:\Users\ASUS\OneDrive\Рабочий стол\C#\Overload_Tack\bin\Debug\net6.0\Overload_Tack.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Рабочий стол\C#\Overload_Tack\bin\Debug\net6.0\Overload_Tack.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\C#\Overload_Tack\bin\Debug\net6.0\Overload_Tack.pdb
+C:\Users\ASUS\OneDrive\Рабочий стол\C#\Overload_Tack\obj\Debug\net6.0\Overload_Tack.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\C#\Overload_Tack\obj\Debug\net6.0\refint\Overload_Tack.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\C#\Overload_Tack\obj\Debug\net6.0\Overload_Tack.pdb
+C:\Users\ASUS\OneDrive\Рабочий стол\C#\Overload_Tack\obj\Debug\net6.0\Overload_Tack.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\C#\Overload_Tack\obj\Debug\net6.0\ref\Overload_Tack.dll

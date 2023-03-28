@@ -1,0 +1,15 @@
+C:\Users\ASUS\OneDrive\Рабочий стол\C#\MinMethods\bin\Debug\net6.0\MinMethods.exe
+C:\Users\ASUS\OneDrive\Рабочий стол\C#\MinMethods\bin\Debug\net6.0\MinMethods.deps.json
+C:\Users\ASUS\OneDrive\Рабочий стол\C#\MinMethods\bin\Debug\net6.0\MinMethods.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Рабочий стол\C#\MinMethods\bin\Debug\net6.0\MinMethods.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\C#\MinMethods\bin\Debug\net6.0\MinMethods.pdb
+C:\Users\ASUS\OneDrive\Рабочий стол\C#\MinMethods\obj\Debug\net6.0\MinMethods.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\C#\MinMethods\obj\Debug\net6.0\MinMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Рабочий стол\C#\MinMethods\obj\Debug\net6.0\MinMethods.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\C#\MinMethods\obj\Debug\net6.0\MinMethods.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Рабочий стол\C#\MinMethods\obj\Debug\net6.0\MinMethods.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\C#\MinMethods\obj\Debug\net6.0\MinMethods.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\C#\MinMethods\obj\Debug\net6.0\refint\MinMethods.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\C#\MinMethods\obj\Debug\net6.0\MinMethods.pdb
+C:\Users\ASUS\OneDrive\Рабочий стол\C#\MinMethods\obj\Debug\net6.0\MinMethods.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\C#\MinMethods\obj\Debug\net6.0\ref\MinMethods.dll
